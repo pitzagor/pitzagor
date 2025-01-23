@@ -2,7 +2,7 @@
 - 👀 I’m interested in technology, leadership and coffee
 - 🌱 I’m currently learning Python, AWS and autmoation
 - 💞️ I’m looking to collaborate on good fun :) 
-- 📫 How to reach me: [linktr.ee/PiotrZ](https://linktr.ee/piotrz)
+- 📫 How to reach me: [bio.link/PiotrZ](https://bio.link/piotrz)
 
 <!---
 pitzagor/pitzagor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
